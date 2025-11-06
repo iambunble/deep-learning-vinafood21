@@ -18,7 +18,7 @@ Xây dựng và đánh giá các mô hình Deep Learning trên dataset VinaFood2
 ### Bài 2: GoogLeNet (Inception)
 - File: `Bai2_GoogLeNet.ipynb`
 - Mô tả: Xây dựng và huấn luyện mô hình GoogLeNet với Inception modules
-- Kết quả: Accuracy ~43.67%
+- Kết quả: Accuracy ~45.99%
 
 ## Dataset
 - **Nguồn:** VinaFood21
@@ -35,3 +35,4 @@ Xây dựng và đánh giá các mô hình Deep Learning trên dataset VinaFood2
 # Clone repository
 
 git clone https://github.com/iambunble/vinafood21-deep-learning.git
+
