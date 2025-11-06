@@ -30,8 +30,8 @@ Xây dựng và đánh giá các mô hình Deep Learning trên dataset VinaFood2
 ├── README.md                 # File mô tả này
 ├── Bai1_LeNet.ipynb         # Code bài 1
 ├── Bai2_GoogLeNet.ipynb     # Code bài 2
-└── VinaFood21.zip           # Dataset
 ```
 
 # Clone repository
+
 git clone https://github.com/iambunble/vinafood21-deep-learning.git
